@@ -12,5 +12,5 @@ Este proyecto es un encriptador de texto simple que permite cifrar y descifrar m
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu-usuario/encriptador-texto.git
+   git clone https://github.com/davidmanueldev/encriptador-alura.git
    ```
